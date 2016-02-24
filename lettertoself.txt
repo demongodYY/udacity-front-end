@@ -1,0 +1,10 @@
+Dear future self,
+	I am probabaly deeply stuck and hosed. Lost in resolving a problem I feel I don't have a clue about. This letter is a reminder of how to apparoach things.
+
+	Things to try:
+	- Go get a cup of tea and read a little, see if the time away makes things clearer. 
+	- Go sleep on the problem and tackle it tomorrow.
+	- Google again, prioritizing stack exchange results.
+	- Ask Christa, Jessica, or one of my other developer friends to look at the code and see if anything obvious stands out, or better yet, if they can look over the code with me.
+
+	You've got this. You have the skills and the patience to figure this out. It might not be today, but you will. Doing this is really important so I don't get stuck in another bad situation again. I need to remember to keep an open mind and approach this as always learning things. I am not going to succeed initially, we all fail constantly, but we also learn from it constantly. I need to focus on the learning and not the daily achievements.

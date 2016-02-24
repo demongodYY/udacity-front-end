@@ -1,0 +1,3 @@
+I want to become a solid developer who can handle front and back-end work. I recently had a job which ended up needing a lot more backend work than was in the job description and I had to leave as I wasn't able to do the work. I don't ever want to get into a situation like that again. I have done some part time front-end work for years customizing drupal and wordpress sites. 
+
+To become a decent back end developer, I need to master front-end work first. My JavaScript knowledge has always been attrocious and this is a good way to fix that, while making some good example sites/tools that I can look back on and learn from.
